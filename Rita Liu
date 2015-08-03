@@ -1,0 +1,188 @@
+<html>
+<head>
+<META NAME="keywrods"   CONTENT="my web">
+<META NAME="desciption"  CONTENT="my personal website">
+<META NAME="generator"   CONTENT="none">
+<META NAME="author"  CONTENT="Rita">
+<META NAME="copyright"  CONTENT ="rita liu">
+<META NAME="resource-type" CONTENT="document">
+<META NAME-"revist-after"  CONTENT="19 days">
+<META NAME="classification" CONTENT="internet">
+<META NAME="distribution"   CONTENT="General">
+<META NAME="rating"  CONTENT="general">
+<META NAME="language" CONTENT+"en-us">
+
+</head>
+<body bgcolor="pink" text="black" background="web/bg.png" link="blue" vlink="blue" alink="purple">
+
+<table border="2" width="100%"  height="10%" cellpadding="6">
+<tr>
+<td width=1000; bgcolor="yellow" background="web/tittle.png"> 
+<center> <front face="arial" color = "#BA68C8" size="10" > <b><big><i>Rita Liu's Home</i></big></b> </front> </center> </td>
+</tr>
+</table>
+
+<table  border="1" width="100%" height="10%">
+<tr>
+
+<td  width ="10%" heigth="10%" valign="top">
+<image src="web/head.jpeg">
+</td>
+
+<td width="20%"valign="top">
+<b>Name:</b> Hongshuo Liu
+      
+<br><br>
+<b>Nick name:</b> Rita
+<br> <br>
+<b>Major:</b> Computer Science (BS)
+<br><br>
+<b>University:</b> University of Illinois at Urbana-Champaign
+<br> <br> 
+<b>Hobby:</b> code, film, dance, runing, badminton, eat sugar, smile ^_^
+<br><br>
+<b>Motto:</b> Where there is a will there is a way. ~~ * ~~ * ~~ * ~~ * 
+</td>
+
+
+<td>
+	<form method="post" action="mailto:hritaliu@gmail.com">
+	<table cellpading="5">
+			 First Name:  
+	<br>
+	<input type="text" name-="Fistname" size="30" value="write your first name here" >
+	
+	<br><br>	Last  Name:
+	<br>
+	<input type="text" name="Lastname" size="30" value="write your last name here" > 
+
+<br><br>
+<textarea name="suggestion"  rows="6" cols="40" > Write the words that you want to say to me here, and they will be sent to my email directly. </textarea>
+<br><br>
+<input type="submit" value="submite">
+</table>
+</form>
+</td>
+
+<td>
+	<form method="post" action="mailto:hritaliu@gmail.com">
+		<br>
+		Questions for fun: Which movie do you like best?
+     <select name="movies" size="1">
+     	<option> Cinderella
+     	<option selected> Titanic
+     	<option> Harry Potter
+     	<option> Avatar
+     	<option> I do not like seeing movies
+     </select>
+     <input type="submit" value="submit"> 
+ </form>
+
+ 	<form method="post" action="mailto:hritaliu@gmail.com">
+
+     <br>
+      Search: 
+      <br>
+      Q1: Which coding language below do u like best
+      <br>
+      java
+      <input type="radio" name="r1" value="java">
+      	c
+   <input type="radio"  name="r1"  value="c">
+        c++
+        <input type="radio" name="r1"  value="c++">
+         python
+         <input type="radio" name="r1" value="python">
+         <br><br>
+         Q2: What is your gender 
+         <br>boy<input type="checkbox" name="boy" value="">
+        girl<input type="checkbox" name="girl" value="">
+        <br><br>         
+        <input type="submit" value="submit above 2 answers.">
+</form>
+        
+   
+
+    </td>
+ </tr>
+
+<table border="2" width="100%" height="20%"> 
+  <tr>
+    <td width="15%">
+<a href="file:///Users/Hongshuo/Desktop/my%20web/courses.html"> My Couses </a>
+
+<td width="15%">
+<a href="file:///Users/Hongshuo/Desktop/my%20web/experience.html"> My Activities </a>
+</td>
+
+<td width="15%">
+  <a href="file:///Users/Hongshuo/Desktop/my%20web/language.html"> My Technical Skills </a>
+</td>
+<td width="4">
+  <a href="https://www.youtube.com/watch?v=09R8_2nJtjg">
+  <image src="web/hi.png">
+  </a>
+  </td>
+
+
+<td> <b><i>Contact Me ^_^ </i></b>
+  <br><br><br> <form method="post" action="mailto:hritaliu@gmail.com">
+  <input type="submit" value="email me">
+</form>
+  <br><br> <form method="post" action="https://www.facebook.com/people/Hongshuo-Liu/100007059767171">
+  <input type="submit" value="contact me on FaceBook">
+</form>
+</td>
+<td><i>
+  Hello, I am glad that you can visit my personal website. Hope you can like my page and know more about me. I am a coding girl when I want to study, and I will turn back to a naughty sugar when I face the difficulities of life, believing the life is full of sweet hope and possiblities no matter how tough the life I feel now. </i>
+</tr>
+
+</table>
+<table border="2"  width="100%"  height="35%">
+  <tr>
+    <td width="10%">
+     <b><i> Good web resources to learn c++</i></b>
+     <br><br><br>
+     <a href="http://www.learncpp.com/">LearnCPP.Com</a>
+    <br><br>
+    <a href="http://www.cplusplus.com/"> http://www.cplusplus.com/</a>
+    </td width="10%">
+    <td width="10%">
+      <b><i>Good resources for java beginners </i></b>
+        <br><br><br>
+      <b><i> Good tool: </i></b>
+        <br><i> eclipse </i>
+        <br><br> <b><i>Good Online Course:</b></i>
+        <br> <a href="http://www.cplusplus.com/"> <i> Stanford Java Course </i></a>
+      </td>
+      <td width="12%"><b><i> Some Mottos for you</b></i>
+        <br> <br><br>
+        No pains, no gains.
+        <br><br> God helps those who help themselves.
+        <br><br> If you believe, you can achieve. 
+        <br><br> Do my best, so that I can not blame myself for anything.
+      </td>
+     
+      <td width="13%">
+       
+          <a href="http://stackoverflow.com/">
+            <image src="web/but.png">
+
+          </a>       
+          <br>
+          Click button to ask cooding questions
+        </td>
+        <td width="13%">
+          
+          <a href="https://github.com/">
+            <image src="web/but.png">
+           
+          </a><br>
+           clikck button to Share your codes
+
+        </td>
+  </tr>
+  </table>
+
+</body>
+</html>
